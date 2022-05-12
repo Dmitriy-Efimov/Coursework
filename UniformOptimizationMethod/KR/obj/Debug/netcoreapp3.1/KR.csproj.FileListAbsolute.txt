@@ -1,0 +1,14 @@
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\bin\Debug\netcoreapp3.1\KR.exe
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\bin\Debug\netcoreapp3.1\KR.deps.json
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\bin\Debug\netcoreapp3.1\KR.runtimeconfig.json
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\bin\Debug\netcoreapp3.1\KR.runtimeconfig.dev.json
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\bin\Debug\netcoreapp3.1\KR.dll
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\bin\Debug\netcoreapp3.1\KR.pdb
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.AssemblyInfoInputs.cache
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.AssemblyInfo.cs
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.dll
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.pdb
+C:\Users\elena\Desktop\Coursework\UniformOptimizationMethod\KR\obj\Debug\netcoreapp3.1\KR.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\Layout.exe.config
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\Layout.exe
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\Layout.pdb
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\IterativeLayoutAlgorithm.dll
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\IterativeLayoutAlgorithm.pdb
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.MainForm.resources
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.OriginalGraph.resources
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.Properties.Resources.resources
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Application.csproj.CopyComplete
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.exe
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.pdb
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.LayoutGraph.resources
+L:\Сегодня\Kursach\Layout\obj\Debug\Layout.LayoutGraph.resources
+L:\Сегодня\Kursach\Layout\obj\Debug\Layout.MainForm.resources
+L:\Сегодня\Kursach\Layout\obj\Debug\Layout.OriginalGraph.resources
+L:\Сегодня\Kursach\Layout\obj\Debug\Layout.Properties.Resources.resources
+L:\Сегодня\Kursach\Layout\obj\Debug\Application.csproj.GenerateResource.cache
+L:\Сегодня\Kursach\Layout\obj\Debug\Application.csproj.CoreCompileInputs.cache
+L:\Сегодня\Kursach\Layout\obj\Debug\Layout.exe
+L:\Сегодня\Kursach\Layout\obj\Debug\Layout.pdb
+L:\Сегодня\Kursach\Layout\bin\Debug\Layout.exe.config
+L:\Сегодня\Kursach\Layout\bin\Debug\Layout.exe
+L:\Сегодня\Kursach\Layout\bin\Debug\Layout.pdb
+L:\Сегодня\Kursach\Layout\bin\Debug\IterativeLayoutAlgorithm.dll
+L:\Сегодня\Kursach\Layout\bin\Debug\IterativeLayoutAlgorithm.pdb
+L:\Сегодня\Kursach\Layout\obj\Debug\Application.csproj.CopyComplete
+L:\Сегодня\Kursach\Layout\obj\Debug\Application.csproj.AssemblyReference.cache
+L:\Сегодня\Kursach\Layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\bin\Debug\Layout.exe.config
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\bin\Debug\Layout.exe
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\bin\Debug\Layout.pdb
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\bin\Debug\IterativeLayoutAlgorithm.dll
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\bin\Debug\IterativeLayoutAlgorithm.pdb
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Application.csproj.AssemblyReference.cache
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Layout.LayoutGraph.resources
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Layout.MainForm.resources
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Layout.OriginalGraph.resources
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Layout.Properties.Resources.resources
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Application.csproj.GenerateResource.cache
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Application.csproj.CoreCompileInputs.cache
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Application.csproj.CopyComplete
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Layout.exe
+L:\Для КУРСАЧА АКиТП\Kursach\Layout\obj\Debug\Layout.pdb

@@ -1,0 +1,10 @@
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\Layout.exe.config
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\Layout.exe
+C:\Users\elena\source\repos\Kursach\Layout\bin\Debug\Layout.pdb
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.csproj.AssemblyReference.cache
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.MainForm.resources
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.Properties.Resources.resources
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.csproj.GenerateResource.cache
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.csproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.exe
+C:\Users\elena\source\repos\Kursach\Layout\obj\Debug\Layout.pdb

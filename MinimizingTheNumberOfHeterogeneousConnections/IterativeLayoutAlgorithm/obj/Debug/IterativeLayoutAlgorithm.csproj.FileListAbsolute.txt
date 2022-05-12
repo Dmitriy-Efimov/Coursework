@@ -1,0 +1,6 @@
+L:\Сегодня\Kursach\IterativeLayoutAlgorithm\bin\Debug\IterativeLayoutAlgorithm.dll
+L:\Сегодня\Kursach\IterativeLayoutAlgorithm\bin\Debug\IterativeLayoutAlgorithm.pdb
+L:\Сегодня\Kursach\IterativeLayoutAlgorithm\obj\Debug\IterativeLayoutAlgorithm.csproj.CoreCompileInputs.cache
+L:\Сегодня\Kursach\IterativeLayoutAlgorithm\obj\Debug\IterativeLayoutAlgorithm.dll
+L:\Сегодня\Kursach\IterativeLayoutAlgorithm\obj\Debug\IterativeLayoutAlgorithm.pdb
+L:\Сегодня\Kursach\IterativeLayoutAlgorithm\obj\Debug\IterativeLayoutAlgorithm.csproj.AssemblyReference.cache
